@@ -1,0 +1,7 @@
+function greet(name){
+    console.log(`Good morning! ${name}`);
+}
+greet("Harshad");
+greet("Tushar");
+greet("Rohan");
+greet("Vilas");
