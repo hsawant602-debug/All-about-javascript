@@ -1,7 +1,10 @@
-function greet(name){
+function greet(name){                         //In the braket after the function name, its known as Parameter
     console.log(`Good morning! ${name}`);
 }
 greet("Harshad");
 greet("Tushar");
 greet("Rohan");
 greet("Vilas");
+
+
+and the the names written as harshad, rohan, tushar, vilas are the arguments
