@@ -1,0 +1,5 @@
+// Fat arrow Function  ||  Arrow Function
+let fnc = ()=>{
+    console.log("Hey everyone! My name is Harshad Sawant");
+}
+fnc();
