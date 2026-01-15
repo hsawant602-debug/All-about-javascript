@@ -1,0 +1,8 @@
+// Jab arguments kai saare ho to humein utne hi parameter banaane padege, issey bachne ke liye, hum rest ka use karte hai ... 
+// agar ... function ke parameter space mein lage to wo rest operator hai and agar wo arrays and objects mein lage to wo spread operator he 
+
+function abcd(a, b, c, d, e, ...val){
+  console.log(a, b, c, d, e, val);            rest thing is an under of ARRAY
+}
+
+abcd(1,2,3,4,5,6,7,8,9,10);
