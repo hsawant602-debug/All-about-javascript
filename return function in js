@@ -1,0 +1,5 @@
+function abcd() {
+    return "Hello World";
+}
+
+console.log(abcd());          //To show the return value in the screen we have to console(print) that function  
