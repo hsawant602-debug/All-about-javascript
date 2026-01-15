@@ -1,7 +1,7 @@
-function add(v1, v2){
+function add(v1, v2){         //v1 and v2 are parameters
   console.log(v1,v2);
 }
 
-add(2,4);
+add(2,4);                     //here 2 and 54 are the arguments
 
 //output:    2 4
